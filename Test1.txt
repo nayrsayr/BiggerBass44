@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="en-us">
+<head>
+<link rel="stylesheet" type="text/css" href="../css/cssplay.css">
+</head>
+<body>
+<h2>Animated Button</h2>
+<button class="button" style="vertical-align:middle"><span>Hover </span></button>
+<p>I'm a boob</p>
+<br>
+<p>We are both boobs</p>
+</body>
+</html>
